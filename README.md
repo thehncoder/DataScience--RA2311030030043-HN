@@ -1,10 +1,14 @@
-# DataScience--RA2311030030043-HN
-
-# DATA SCIENCE ASSIGNMENT -3RD YEAR/6TH SEM
+# 📊 Data Science Assignment (3rd Year / 6th Semester)
 
 
-# SUBMITTED BY-
-# HARSHIT NIGAM-RA2311030030043
+## 👨‍🎓 Submitted By
+- **Name:** Harshit Nigam  
+- **Roll Number:** RA2311030030043  
 
-# SUBMITTED TO-
-# MS. GEETANAJLI TYAGI MAA'AM
+---
+
+## 👩‍🏫 Submitted To
+- **Faculty:** Ms. Geetanajli Tyagi  
+
+---
+
